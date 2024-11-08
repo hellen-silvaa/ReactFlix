@@ -23,3 +23,16 @@ Projeto desenvolvido com React e integrando a API do [The Movie DB](https://www.
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/hellen-silvaa/ReactFlix.git
+   
+2. Navegue até a pasta do projeto:
+   ```bash
+   cd seu-repositorio
+   
+3.Instale o Node:
+   ```bash
+    npm install
+
+4.Executa o Projeto
+   ```bash
+Copiar código
+npm run dev
