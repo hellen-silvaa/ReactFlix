@@ -28,10 +28,10 @@ Projeto desenvolvido com React e integrando a API do [The Movie DB](https://www.
    ```bash
    cd seu-repositorio
    
-3.Instale o Node:
+3. Instale o Node:
    ```bash
    npm install
 
 4. Executa o Projeto
    ```bash
-npm run dev
+   npm run dev
