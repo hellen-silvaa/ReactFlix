@@ -14,7 +14,7 @@ Projeto desenvolvido com React e integrando a API do [The Movie DB](https://www.
 - **Perfil** permite ao usuário adicionar filmes e séries às listas "Assistidos" e "Para Ver Depois", salvas no LocalStorage. As listas podem ser acessadas em um menu separado depois que faz o login pelo icone
   
 - **Página de Gêneros** da para fazer a filtragem de filmes por gênero e atualizar os filmes sem recarregar a página (SPA)
-- 
+  
 - **Página de Lanchinhos** onde infelizmente não tem lanchinhos, é apenas para representar a funcionalidade do PageNotDefault
 
 
