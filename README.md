@@ -26,7 +26,7 @@ Projeto desenvolvido com React e integrando a API do [The Movie DB](https://www.
    
 2. Navegue até a pasta do projeto:
    ```bash
-   cd seu-repositorio
+   cd ReactFlix\portal-filmes-main
    
 3. Instale o Node.js:
    ```bash
