@@ -2,7 +2,7 @@
 
 Projeto desenvolvido com React e integrando a API do [The Movie DB](https://www.themoviedb.org/) 
 
-## 📋 Funcionalidades
+## Funcionalidades
 
 ### Funcionalidades Principais
 - **Página Home** onde é  exibido os filmes em formato de carrossel.
@@ -18,7 +18,7 @@ Projeto desenvolvido com React e integrando a API do [The Movie DB](https://www.
 - **Página de Lanchinhos** onde infelizmente não tem lanchinhos, é apenas para representar a funcionalidade do PageNotDefault
 
 
-## 🚀 Como Rodar o Projeto
+## Como Rodar o Projeto
 
 1. **Clone o repositório:**
    ```bash
