@@ -6,10 +6,14 @@ Projeto desenvolvido com React e integrando a API do [The Movie DB](https://www.
 
 ### Funcionalidades Principais
 - **Página Home** onde é  exibido os filmes em formato de carrossel.
-- **Estilização com Tailwind CSS** para manter uma interface elegante e funcional.
+  
+- **Estilização com Tailwind CSS** para manter uma interface responsiva e funcional
+  
 - **Página Individual de Filmes** mostra detalhes e informações de um filme específico, incluindo: Título, Sinopse, Avaliação (nota média), Data de lançamento, Elenco, Trailer oficial
+  
 - **Perfil**: permite ao usuário adicionar filmes e séries às listas "Assistidos" e "Para Ver Depois", salvas no LocalStorage. As listas podem ser acessadas em um menu separado depois que faz o login pelo icone
-- **Página de Gêneros**da para fazer a filtragem de filmes por gênero e atualizar os filmes sem recarregar a página.(SPA)
+  
+- **Página de Gêneros**da para fazer a filtragem de filmes por gênero e atualizar os filmes sem recarregar a página (SPA)
 
 
 ## 🚀 Como Rodar o Projeto
